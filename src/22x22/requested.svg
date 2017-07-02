@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.1 r15371"
+   version="1.0"
+   sodipodi:docname="requested.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#9a9a9a"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,112"
+       id="guide2383"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="26.278146,128"
+       id="guide2385"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="128,54.082119"
+       id="guide2387"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="78.156291,0"
+       id="guide2389"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3672"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Cross"
+     style="display:inline"
+     transform="translate(-0.4642613,3.000018)">
+    <path
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke:none"
+       d="m 11.464261,1.999982 c -3.8659926,0 -6.9999997,2.4101491 -6.9999997,6 0,3.589851 3.1340071,6 6.9999997,6 1.064957,0 2.065093,-0.229965 2.96875,-0.625 l 4.03125,1.625 -1.4375,-3.5625 c 0.903172,-1.094701 1.4375,-1.951935 1.4375,-3.4375 0,-3.5898509 -3.134007,-6 -7,-6 z m -0.107422,1.4472656 c 0.776154,0 1.412335,0.1765 1.90625,0.5292969 0.564475,0.4013066 0.845703,0.9754195 0.845703,1.7207031 0,0.696774 -0.257472,1.3135474 -0.773437,1.8515624 -0.343977,0.357207 -0.903534,0.759672 -1.679687,1.205078 v 1.335938 H 10.630277 V 8.302716 C 11.41084,7.86172 11.919483,7.537329 12.157621,7.33006 c 0.515965,-0.4498158 0.773437,-0.9647598 0.773437,-1.5468749 0,-0.9040422 -0.551806,-1.3554687 -1.654297,-1.3554687 -0.754103,0 -1.4615522,0.2051079 -2.1230466,0.6152344 H 9.1009801 V 3.8574039 C 9.8198039,3.5839862 10.571866,3.4472476 11.356839,3.4472476 Z m -0.21875,7.6738284 c 0.202859,0 0.377909,0.07322 0.523438,0.21875 0.145529,0.145528 0.21875,0.318625 0.21875,0.521484 0,0.202858 -0.07322,0.377909 -0.21875,0.523438 -0.145529,0.145528 -0.320579,0.21875 -0.523438,0.21875 -0.202858,0 -0.375955,-0.07322 -0.521484,-0.21875 -0.145529,-0.145529 -0.21875,-0.32058 -0.21875,-0.523438 0,-0.202859 0.07322,-0.375956 0.21875,-0.521484 0.145529,-0.145529 0.318626,-0.21875 0.521484,-0.21875 z"
+       id="path2892"
+       inkscape:connector-curvature="0" />
+    <g
+       aria-label="?"
+       style="font-style:normal;font-weight:normal;font-size:40.64221573px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01605535"
+       id="text820"
+       transform="translate(3,-3)" />
+  </g>
+</svg>
